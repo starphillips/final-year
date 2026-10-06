@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ethical-computing/2-ai-ethics.md",
+                "file": "2. Research Governance and Ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-ai-ethics"
+              "title": "2. Research Governance and Ethics"
             }
           }
         ]
@@ -190,34 +190,36 @@
   },
   "active": "2ee92d3fd9b7ca17",
   "lastOpenFiles": [
-    "Pasted image 20261005091128.png",
-    "consultancy-project/Case Study.md",
+    "software-dev-project/1. Choosing your Project.md",
+    "2. Research Governance and Ethics.md",
     "ethical-computing/2-ai-ethics.md",
-    "consultancy-project/Linking the Levels.md",
-    "consultancy-project/Task 1.md",
-    "consultancy-project/Key Dates.md",
-    "consultancy-project/Companies.md",
+    "ethical-computing/1-intro/Dark UX Patterns - Case Study.md",
+    "development-info-systems/intro/overview.md",
+    "development-info-systems/intro/presentation.md",
+    "development-info-systems/Unbenannt.md",
+    "development-info-systems/intro/portfolio.md",
+    "development-info-systems/intro/methodologies-lifecycles.md",
+    "development-info-systems/intro",
+    "consultancy-project/intro/top-tips.md",
+    "consultancy-project/Case Study.md",
     "consultancy-project/Questions.md",
-    "development-info-systems/1. Development Methodologies and Life-Cycle.md",
+    "consultancy-project/intro/link-levels.md",
+    "consultancy-project/intro/key-dates.md",
+    "consultancy-project/intro/companies.md",
+    "consultancy-project/intro",
+    "Pasted image 20261005091128.png",
     "consultancy-project",
     "development-info-systems/~$torial-task-SDM.docx",
     "development-info-systems/~WRL2534.tmp",
     "development-info-systems/~WRD2515.tmp",
     "development-info-systems/tutorial-task-SDM.docx",
-    "development-info-systems/1. Intro.md",
-    "development-info-systems/portfolio.md",
-    "development-info-systems/presentation.md",
     "software-dev-project/Research/Competitors.md",
     "development-info-systems",
     "software-dev-project/Research",
-    "software-dev-project/1. Choosing your Project.md",
     "Images",
-    "ethical-computing/1-intro/Dark UX Patterns - Case Study.md",
-    "software-dev-project",
     "ethical-computing/1-intro/Learning Outcomes.md",
     "Images/Pasted image 20260925163942.png",
     "ethical-computing/1-intro/UK Biobank Case Study.md",
-    "ethical-computing/1-intro",
     "Willkommen.md"
   ]
 }
