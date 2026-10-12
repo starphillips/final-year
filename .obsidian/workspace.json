@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea88280e501a3428",
+        "id": "dd55a667af3093de",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee92d3fd9b7ca17",
+            "id": "b2be6fb4f5659480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Research Governance and Ethics.md",
+                "file": "ethical-computing/3-data-ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Research Governance and Ethics"
+              "title": "3-data-ethics"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethical/Lecture 1/Learning Outcomes.md",
+                "file": "ethical-computing/3-data-ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,31 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "2ee92d3fd9b7ca17",
+  "active": "b2be6fb4f5659480",
   "lastOpenFiles": [
-    "software-dev-project/1. Choosing your Project.md",
-    "2. Research Governance and Ethics.md",
+    "Pasted image 20261012222816.png",
+    "Pasted image 20261012221632.png",
     "ethical-computing/2-ai-ethics.md",
-    "ethical-computing/1-intro/Dark UX Patterns - Case Study.md",
-    "development-info-systems/intro/overview.md",
+    "ethical-computing/3-data-ethics.md",
     "development-info-systems/intro/presentation.md",
-    "development-info-systems/Unbenannt.md",
     "development-info-systems/intro/portfolio.md",
+    "development-info-systems/intro/overview.md",
     "development-info-systems/intro/methodologies-lifecycles.md",
+    "development-info-systems/CASE-STUDY/To-do.md",
+    "development-info-systems/CASE-STUDY/Questions.md",
+    "development-info-systems/CASE-STUDY/Notes.md",
+    "development-info-systems/Unbenannt.md",
+    "development-info-systems/CASE-STUDY",
+    "consultancy-project/week-2/Team Portfo.md",
+    "consultancy-project/week-2/Clients.md",
+    "software-dev-project/Research/Competitors.md",
+    "consultancy-project/week-2",
+    "software-dev-project/1. Choosing your Project.md",
+    "software-dev-project/2. Research Governance and Ethics.md",
+    "Pasted image 20261005091128.png",
+    "2. Research Governance and Ethics.md",
+    "workout-tracker",
+    "ethical-computing/1-intro/Dark UX Patterns - Case Study.md",
     "development-info-systems/intro",
     "consultancy-project/intro/top-tips.md",
     "consultancy-project/Case Study.md",
@@ -207,19 +221,13 @@
     "consultancy-project/intro/key-dates.md",
     "consultancy-project/intro/companies.md",
     "consultancy-project/intro",
-    "Pasted image 20261005091128.png",
     "consultancy-project",
     "development-info-systems/~$torial-task-SDM.docx",
     "development-info-systems/~WRL2534.tmp",
     "development-info-systems/~WRD2515.tmp",
     "development-info-systems/tutorial-task-SDM.docx",
-    "software-dev-project/Research/Competitors.md",
-    "development-info-systems",
-    "software-dev-project/Research",
-    "Images",
     "ethical-computing/1-intro/Learning Outcomes.md",
     "Images/Pasted image 20260925163942.png",
-    "ethical-computing/1-intro/UK Biobank Case Study.md",
-    "Willkommen.md"
+    "ethical-computing/1-intro/UK Biobank Case Study.md"
   ]
 }
