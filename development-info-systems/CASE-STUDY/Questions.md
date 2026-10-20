@@ -7,7 +7,6 @@ How many contact attempts are made before they stop contacting the patient, and 
 
 Who can approve a payment exemption or “payment arrangement”, and what counts as one?
 
-*For the appointments that rely on external teams, is there a way for the hospital team to be informed of this and the reason in case of delays in appointments/ patient requests?*
 
 What are the refund rules (full vs partial)?
 

@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ethical-computing/3-data-ethics.md",
+                "file": "consultancy-project/week-2/Team Portfo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-data-ethics"
+              "title": "Team Portfo"
+            }
+          },
+          {
+            "id": "81d6161e642c6d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ethical-computing/4-sustainable-IT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-sustainable-IT"
+            }
+          },
+          {
+            "id": "a0dfebc4f484ee89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "software-dev-project/Project Proposal/Project Proposal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Proposal"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethical-computing/3-data-ethics.md",
+                "file": "consultancy-project/week-2/Team Portfo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,46 +217,47 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "b2be6fb4f5659480",
+  "active": "a0dfebc4f484ee89",
   "lastOpenFiles": [
-    "Pasted image 20261012222816.png",
-    "Pasted image 20261012221632.png",
-    "ethical-computing/2-ai-ethics.md",
-    "ethical-computing/3-data-ethics.md",
-    "development-info-systems/intro/presentation.md",
-    "development-info-systems/intro/portfolio.md",
-    "development-info-systems/intro/overview.md",
-    "development-info-systems/intro/methodologies-lifecycles.md",
-    "development-info-systems/CASE-STUDY/To-do.md",
     "development-info-systems/CASE-STUDY/Questions.md",
+    "development-info-systems/project-management/Notes.md",
+    "development-info-systems/Assessment.md",
+    "development-info-systems/Drafts.md",
+    "development-info-systems/CASE-STUDY/To-do.md",
     "development-info-systems/CASE-STUDY/Notes.md",
-    "development-info-systems/Unbenannt.md",
-    "development-info-systems/CASE-STUDY",
+    "software-dev-project/2. Research Governance and Ethics.md",
+    "software-dev-project/1. Choosing your Project.md",
+    "software-dev-project/Research/Competitors.md",
+    "software-dev-project/Project Proposal/Project Proposal.md",
+    "ethical-computing/ASSESSMENT/Case Study.md",
+    "ethical-computing/ASSESSMENT/Case Study Notes.md",
+    "ethical-computing/1-intro/UK Biobank Case Study.md",
+    "ethical-computing/1-intro/Learning Outcomes.md",
+    "ethical-computing/1-intro/Dark UX Patterns - Case Study.md",
+    "ethical-computing/4-sustainable-IT.md",
+    "ethical-computing/3-data-ethics.md",
+    "ethical-computing/2-ai-ethics.md",
+    "ethical-computing/ASSESSMENT/Where to Start.md",
+    "ethical-computing/ASSESSMENT/Guidelines.md",
+    "ethical-computing/ASSESSMENT",
     "consultancy-project/week-2/Team Portfo.md",
     "consultancy-project/week-2/Clients.md",
-    "software-dev-project/Research/Competitors.md",
-    "consultancy-project/week-2",
-    "software-dev-project/1. Choosing your Project.md",
-    "software-dev-project/2. Research Governance and Ethics.md",
-    "Pasted image 20261005091128.png",
-    "2. Research Governance and Ethics.md",
-    "workout-tracker",
-    "ethical-computing/1-intro/Dark UX Patterns - Case Study.md",
-    "development-info-systems/intro",
+    "consultancy-project/intro/companies.md",
     "consultancy-project/intro/top-tips.md",
-    "consultancy-project/Case Study.md",
-    "consultancy-project/Questions.md",
     "consultancy-project/intro/link-levels.md",
     "consultancy-project/intro/key-dates.md",
-    "consultancy-project/intro/companies.md",
+    "development-info-systems/project-management",
+    "software-dev-project/Project Proposal",
+    "Pasted image 20261012222816.png",
+    "Pasted image 20261012221632.png",
+    "development-info-systems/CASE-STUDY",
+    "consultancy-project/week-2",
+    "Pasted image 20261005091128.png",
+    "workout-tracker",
+    "development-info-systems/intro",
     "consultancy-project/intro",
     "consultancy-project",
     "development-info-systems/~$torial-task-SDM.docx",
-    "development-info-systems/~WRL2534.tmp",
-    "development-info-systems/~WRD2515.tmp",
-    "development-info-systems/tutorial-task-SDM.docx",
-    "ethical-computing/1-intro/Learning Outcomes.md",
-    "Images/Pasted image 20260925163942.png",
-    "ethical-computing/1-intro/UK Biobank Case Study.md"
+    "Images/Pasted image 20260925163942.png"
   ]
 }
